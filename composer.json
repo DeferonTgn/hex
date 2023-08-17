@@ -1,0 +1,15 @@
+{
+    "name": "deduhm/hex",
+    "autoload": {
+        "psr-4": {
+            "Deduhm\\Hex\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "deduhm",
+            "email": "shim.master3490@gmail.com"
+        }
+    ],
+    "require": {}
+}
